@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "cypress run",
+    "test": "npm cypress run",
     "cy:open": "cypress open",
     "cy:run": "cypress run "
   },
@@ -12,6 +12,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^5.1.0",
+    "cypress": "^5.1.0"
   }
 }
